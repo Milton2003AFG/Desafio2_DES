@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="FG212499.BL/FG212499.BL.csproj" />
+  <Project Path="FG212499.Common/FG212499.Common.csproj" />
+  <Project Path="FG212499.DAL/FG212499.DAL.csproj" />
+  <Project Path="FG212499.Entities/FG212499.Entities.csproj" />
+  <Project Path="FG212499Desafio2/FG212499Desafio2.API.csproj" />
+</Solution>
